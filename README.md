@@ -1,2 +1,6 @@
-# MTProto
-Proxy for Telegram
+
+
+برای اتصال به پراکسی رایگان تلگرام روی متن زیر کلیک کنید
+
+ 
+[پراکسی اینوست فید](https://t.me/investfeedco/2071)
